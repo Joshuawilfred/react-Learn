@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![GitHub last commit](https://img.shields.io/github/last-commit/joshuawilfred/react-adopt-me)
 
-![Demo](https://media.giphy.com/media/h8E7oT2FGEJkQ/giphy.gif)
+![Demo](https://media.giphy.com/media/xUA7aZCyuMSgkwqEUw/giphy.gif)
 
 Adopt Me is a React project that utilizes modern web development techniques such as hooks, APIs, JSX, and more. This repository contains the code for a React project that follows the course [Complete Intro to React, v8](https://frontendmasters.com/courses/complete-react-v8/) taught by [Frontend Masters](https://frontendmasters.com/).
 
