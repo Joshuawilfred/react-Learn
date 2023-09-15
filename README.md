@@ -59,12 +59,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## About the Author
 
-This project is developed and maintained by a passionate learner like yourself. Feel free to connect with the author on [LinkedIn](https://www.linkedin.com/in/yourname) to share your thoughts and experiences.
-
-## Repository Name
-
-Sophisticated Repository Name: **react-adopt-me**
-
-This name reflects the project's focus on React and the concept of adopting pets, which can be customized to fit your specific project. Remember to choose a name that resonates with your project's goals and captures the attention of potential contributors and users.
-
-Happy coding and enjoy building your React project with Adopt Me!
+This project is developed and maintained by a passionate learner like yourself. Feel free to connect with the author on [LinkedIn](https://www.linkedin.com/in/joshuawilfred/) to share your thoughts and experiences.
